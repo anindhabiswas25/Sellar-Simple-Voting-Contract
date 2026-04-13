@@ -11,6 +11,12 @@ A minimalist, fully on-chain **Yes/No voting smart contract** built on the [Stel
 
 ---
 
+## Deployed Contract Adress
+[Click Here](https://stellar.expert/explorer/testnet/contract/CCZJZ3TAZ2J7HHY2723SGUEPW22EJK22ZTRQX4RDFQ64MVADWBT3NWDY)
+
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
