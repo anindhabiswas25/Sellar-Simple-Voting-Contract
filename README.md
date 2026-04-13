@@ -1,4 +1,6 @@
 # Stellar Simple Voting Contract
+<img width="2879" height="1559" alt="Screenshot from 2026-04-13 13-31-29" src="https://github.com/user-attachments/assets/a104ec0d-34b9-4131-adb6-13d298d52e35" />
+
 
 [![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contract-blue?logo=stellar)](https://soroban.stellar.org)
 [![Rust](https://img.shields.io/badge/Rust-1.80%2B-orange?logo=rust)](https://www.rust-lang.org/)
